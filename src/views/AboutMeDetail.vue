@@ -61,7 +61,11 @@
                 <i class="skills-list-item-icon fab fa-sass"></i>
               </li>
               <li class="skills-list-item">
-                <i class="skills-list-item-icon fab fa-js-square"></i></li>
+                <i class="skills-list-item-icon fab fa-js-square"></i>
+              </li>  
+              <li class="skills-list-item">
+                <img src="../assets/icons/graphql.svg" class="skills-list-item-icon icon" />
+              </li>
               <li class="skills-list-item">
                 <i class="skills-list-item-icon fab fa-vuejs"></i>
               </li>
